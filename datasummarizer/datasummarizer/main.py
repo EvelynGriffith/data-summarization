@@ -4,13 +4,13 @@
 from pathlib import Path
 
 # import the type module
-from datasummarizer import type
+import typer
 
 # import the summarize module from datasummarizer
 from datasummarizer import summarize
 
 # import the transform module from datasummarizer
-from transform import datasummarizer
+from datasummarizer import transform
 
 # import the Console object from the rich.console
 from rich.console import Console
