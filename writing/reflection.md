@@ -76,4 +76,4 @@ I think I should study the commands of python further so that the NAN problem do
 
 ### After completing this assignment, what is one experience for which you are grateful? Why?
 
-I am really proud of myself for being able to complete this lab almost entirely on my own. I feel like I am making a lot of progress toward being able to code without the TODOs guiding me and that makes me really happy.
+I am really proud of myself for being able to complete this lab almost entirely on my own. I feel like I am making a lot of progress toward being able to code without the todos guiding me and that makes me really happy.
