@@ -13,7 +13,7 @@ def transform_string_to_number_list(data_text: str) -> List[float]:
     # iterate through the data_text using the splitlines function
     for line in data_text.splitlines():
     # convert every one of the text-based values to a floating-point value
-        new_list = data_number_list.append(float(line))
+        data_number_list.append(float(line))
     # return the list of floating-point values that represent the
     # values that were converted from a string to a float
-    return new_list
+    return data_number_list
