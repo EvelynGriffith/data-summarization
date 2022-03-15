@@ -72,7 +72,7 @@ The biggest challeng I had during this lab was understanding the NaN or "Not a N
 
 ### After completing this assignment, what is one task that you want to practice more? Why?
 
-I think I should study the commands of python further so that the NAN problem doesnt occur again.
+I think I should study the commands of python further so that the NAN problem doesnt occur again. I think that this could be especially useful because it will allow me to understand all code more and know how to code more on my own without the help of todos.
 
 ### After completing this assignment, what is one experience for which you are grateful? Why?
 
