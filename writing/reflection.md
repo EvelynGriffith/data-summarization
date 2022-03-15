@@ -72,8 +72,8 @@ The biggest challeng I had during this lab was understanding the NaN or "Not a N
 
 ### After completing this assignment, what is one task that you want to practice more? Why?
 
-TODO: Provide a one-paragraph response to this question, using source code or commands for reference as needed
+I think I should study the commands of python further so that the NAN problem doesnt occur again.
 
 ### After completing this assignment, what is one experience for which you are grateful? Why?
 
-TODO: Provide a one-paragraph response to this question, using source code or commands for reference as needed
+I am really proud of myself for being able to complete this lab almost entirely on my own. I feel like I am making a lot of progress toward being able to code without the TODOs guiding me and that makes me really happy.
