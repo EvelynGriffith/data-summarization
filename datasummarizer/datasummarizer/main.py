@@ -1,14 +1,19 @@
 """Define the command-line interface for the datasummarizer program."""
 
-# TODO: import the Path object from the pathlib module
+# import the Path object from the pathlib module
+from pathlib import Path
 
-# TODO: import the type module
+# import the type module
+from datasummarizer import type
 
-# TODO: import the summarize module from datasummarizer
+# import the summarize module from datasummarizer
+from datasummarizer import summarize
 
-# TODO: import the transform module from datasummarizer
+# import the transform module from datasummarizer
+from transform import datasummarizer
 
-# TODO: import the Console object from the rich.console
+# import the Console object from the rich.console
+from rich.console import Console
 
 cli = typer.Typer()
 

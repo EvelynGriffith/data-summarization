@@ -1,11 +1,15 @@
-# TODO: Add the required docstring to the module
+# Add the required docstring to the module
+"""Summarize the data through a compute mean function."""
 
 # TODO: add an import for all of the required type annotations
 
-# TODO: Add a suitable docstring for the compute_mean function
+import math
+
+# Add a suitable docstring for the compute_mean function
 
 
 def compute_mean(numbers: List[float]) -> float:
+    """Compute the mean for a list called numbers which contains floats."""
     # TODO: sum the list of the numbers
     # TODO: determine the length of the list of numbers
     # TODO: as long as the computation will not be an
