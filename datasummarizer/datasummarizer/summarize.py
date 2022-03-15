@@ -6,6 +6,7 @@ from typing import List
 
 # Add a suitable docstring for the compute_mean function
 
+
 def compute_mean(numbers: List[float]) -> float:
     """Compute the mean for a list called numbers which contains floats."""
     # sum the list of the numbers
@@ -16,7 +17,7 @@ def compute_mean(numbers: List[float]) -> float:
     # undefined division by zero, compute the mean
     for i in numbers:
         if i in numbers != 0:
-            mean = Sum/Size
+            mean = Sum / Size
             return mean
     # https://stackoverflow.com/questions/58400652/average-returning-a-value-even-when-list-is-empty
     # if the list was empty, then return a mean that is "not a number"
