@@ -22,4 +22,3 @@ def compute_mean(numbers: List[float]) -> float:
     # https://stackoverflow.com/questions/58400652/average-returning-a-value-even-when-list-is-empty
     # if the list was empty, then return a mean that is "not a number"
     return float("NaN")
-    # https://stackoverflow.com/questions/944700/how-can-i-check-for-nan-values
